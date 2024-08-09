@@ -1,1 +1,1 @@
-Link for this website : https://biryanihub-arjo.netlify.app
+Link for this website : https://biryanihub-arjo.netlify.app/
