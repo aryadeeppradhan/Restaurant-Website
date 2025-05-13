@@ -27,5 +27,5 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/aryadeeppradhan/restaurant-website.git
-   cd restaurant-website
+   git clone https://github.com/aryadeeppradhan/Restaurant-Website.git
+   cd Restaurant-Website
